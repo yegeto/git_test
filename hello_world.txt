@@ -1,1 +1,3 @@
 My first GitHub repo!
+
+I changed the default message editor
